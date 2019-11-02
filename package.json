@@ -1,0 +1,19 @@
+{
+  "name": "polyratjs",
+  "version": "1.0.0",
+  "description": "Utilities for polynomials using rational integer mathematics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justdoityourself/polyratjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justdoityourself/polyratjs/issues"
+  },
+  "homepage": "https://github.com/justdoityourself/polyratjs#readme"
+}
